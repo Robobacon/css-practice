@@ -4,11 +4,53 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h2 {
+    text-decoration: underline;
+    margin: 30px 10px;
+}
+
+h3 {
+    margin: 30px 10px;
+}
+
+p {
+    margin: 30px 10px;
+}
 section {
     border: 2px solid black;
     margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .center {
     text-align: center;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.dotted {
+    border: 2px dotted black;
+    margin: 25px;
+}
+
+.white {
+    color: white;
+}
+
+.greenbg {
+    background-color: green;
 }
